@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "Chào mừng ngày nhà giáo Việt Nam 20/11",
+    introTitle: 'Gửi tới thầy cô ',
+    introDesc: `Nhân ngày 20/11,em xin chúc các thầy các cô lời chúc tốt đẹp nhất. Chúc các thầy cô hoàn thành nhiệm vụ cao cả của mình trong sự nghiệp trăm năm trồng người, trong công cuộc đổi mới của đất nước. Em chân thành cám ơn các thầy cô. `,
+    btnIntro: '^^bấm zô đây ạ^^',
+    title: 'Happy Teachers’ Day! Thank you for everything!',
+    desc: 'Thầy cô có cảm thấy zui không ạ',
+    btnYes: 'Có💖',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    question: 'Chúc thầy cô một ngày thật vui vẻ bên gia đình ạ <3',
+    btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    mess: 'Dạ cảm ơn ạ',
+    messDesc: 'Happy Teachers’ Day in Vietnam!',
+    btnAccept: 'Camon em <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
